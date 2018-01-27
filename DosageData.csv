@@ -4,13 +4,13 @@ authorship:
 		{name: "sjschen", weight: "1.0"},
 		{name: "Randall Munroe", weight: "1.0"},
 		{name: "Ellen, Senior Reactor Operator at the Reed Research Reactor", weight: "1.0"}
-	}
+	},
 data: [
 		{
 			dosage: "0.00002",
 			timePeriod: "1h",
 			description: "One hour dose limit for a member of the public from non medical sources",
-			interest: "0",,
+			interest: "0",
 			source: [
 				{statement: "(2) The dose in any unrestricted area from external sources, exclusive of the dose contributions from patients administered radioactive material and released in accordance with § 35.75, does not exceed 0.002 rem (0.02 millisievert) in any one hour.", source: "nrc1301"}
 			]
