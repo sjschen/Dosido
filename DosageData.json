@@ -1,11 +1,12 @@
 {
 authorship:
-	{
+	[
 		{name: "sjschen", weight: "1.0"},
 		{name: "Randall Munroe", weight: "1.0"},
 		{name: "Ellen, Senior Reactor Operator at the Reed Research Reactor", weight: "1.0"}
-	},
-data: [
+	],
+data: 
+	[
 		{
 			dosage: "0.00002",
 			timePeriod: "1h",
