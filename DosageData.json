@@ -115,12 +115,12 @@ data: [
 				accessDate: "2018-01-27"
 			},
 			{
-				name: "nrcbio"
+				name: "nrcbio",
 				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Fbio-effects-radiation.html",
 				accessDate: "2018-01-27"				
 			},
 			{
-				name: "nrctritium",,
+				name: "nrctritium",
 				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Ftritium-radiation-fs.html",
 				accessDate: "2018-01-27"
 			},
