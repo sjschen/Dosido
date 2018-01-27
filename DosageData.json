@@ -89,47 +89,47 @@ data:
 			]
 		}
 	],
-	citations: [
-			{
-				name: "nrc1301",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1301.html",
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "nrc1201",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1201.html",
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "nrc1207",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1207.html"
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "nrc1208",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1208.html",
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "nrc16",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1601.html",
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "nrcbio",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Fbio-effects-radiation.html",
-				accessDate: "2018-01-27"				
-			},
-			{
-				name: "nrctritium",
-				url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Ftritium-radiation-fs.html",
-				accessDate: "2018-01-27"
-			},
-			{
-				name: "ne-nema",
-				url:"https%3A%2F%2Fnema.nebraska.gov%2Ftech-hazard%2Fradiation-dose-limits",
-				accessDate: "2018-01-27"
-			}
-	
+	citations:
+	[
+		{
+			name: "nrc1301",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1301.html",
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "nrc1201",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1201.html",
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "nrc1207",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1207.html"
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "nrc1208",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1208.html",
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "nrc16",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Fcfr%2Fpart020%2Fpart020-1601.html",
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "nrcbio",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Fbio-effects-radiation.html",
+			accessDate: "2018-01-27"				
+		},
+		{
+			name: "nrctritium",
+			url:"https%3A%2F%2Fwww.nrc.gov%2Freading-rm%2Fdoc-collections%2Ffact-sheets%2Ftritium-radiation-fs.html",
+			accessDate: "2018-01-27"
+		},
+		{
+			name: "ne-nema",
+			url:"https%3A%2F%2Fnema.nebraska.gov%2Ftech-hazard%2Fradiation-dose-limits",
+			accessDate: "2018-01-27"
+		}
 	]
 }
